@@ -1,0 +1,10 @@
+@media (max-width: 767px) {
+  #checkall {
+    padding: 4px !important;
+    font-size: 10px !important;
+  }
+  button {
+    outline: none !important;
+  }
+}
+/*# sourceMappingURL=style.css.map */
